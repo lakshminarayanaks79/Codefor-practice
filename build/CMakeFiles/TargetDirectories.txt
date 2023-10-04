@@ -1,0 +1,6 @@
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/CMakeFiles/hellobinary.dir
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/CMakeFiles/INSTALL.dir
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/lib/CMakeFiles/wifi_lib.dir
+C:/Users/kadechur.l.FUTRONIC/Desktop/Codefor-practice/build/lib/CMakeFiles/INSTALL.dir

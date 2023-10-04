@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kadechur.l.FUTRONIC\Desktop\Codefor-practice\lib\Wifi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kadechur.l.FUTRONIC\Desktop\Codefor-practice\lib\Wifi.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kadechur.l.FUTRONIC\Desktop\Codefor-practice\lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F4E2CB48-6562-3177-996D-B13B20C63915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{51771892-09C5-3C3D-B7B4-51F330DEDAA2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
