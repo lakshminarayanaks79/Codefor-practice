@@ -17,6 +17,8 @@ int main()
 
     std::cout << "ProductType is 1" << ProductType << std::endl;
     std::cout << "PRODUCT_YEAR is 1" << PRODUCT_YEAR << std::endl;
+
+      std::cout << "Software Version is" << HELLOAPP_VERSION_MAJOR << "." << HELLOAPP_VERSION_MINOR<<std::endl;
     //std::cout << STD_CXX << std::endl;
     return 0;
 }
