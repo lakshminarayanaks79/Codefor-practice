@@ -21,9 +21,6 @@ int main()
       std::cout << "Software Version is" << HELLOAPP_VERSION_MAJOR << "." << HELLOAPP_VERSION_MINOR<<std::endl;
     //std::cout << STD_CXX << std::endl;
 
-    #ifdef DEBUGINFO
-    std::cout << DEBUGINFO << std::endl;
-#endif
     std::cout << "Software Version is" << HELLOAPP_VERSION_MAJOR << "." << HELLOAPP_VERSION_MINOR<<std::endl;
     std::cout << sum(3,4);
     WIFI_Init();
